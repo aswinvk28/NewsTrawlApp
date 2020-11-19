@@ -1,0 +1,43 @@
+.facebook {
+
+}
+
+.linkedin {
+
+}
+
+.twitter {
+
+}
+
+.section {
+    clear: both;
+    height: 100%;
+}
+
+.sidebar {
+    float: left;
+    width: 28%;
+    margin-right: 15px;
+    margin-left: 15px;
+    border: 1px solid #fea890;
+    height: 700px;
+}
+
+#twitter_iframe {
+    border: 0 none;
+    height: 100%;
+    width: 100%;
+}
+
+#facebook_iframe {
+    border: 0 none;
+    height: 100%;
+    width: 100%;
+}
+
+#linkedin_iframe {
+    border: 0 none;
+    height: 100%;
+    width: 100%;
+}
