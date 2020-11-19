@@ -14,3 +14,4 @@ Go to [https://app.requestly.io/rules](https://app.requestly.io/rules) and creat
 
 - twitter.com
 
+![./index-html.png](./index-html.png)
