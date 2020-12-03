@@ -1,13 +1,13 @@
 .facebook {
-
+    
 }
 
 .linkedin {
-
+    
 }
 
 .twitter {
-
+    
 }
 
 .section {
@@ -40,4 +40,21 @@
     border: 0 none;
     height: 100%;
     width: 100%;
+}
+
+.expand-frame {
+    display: block;
+    width: 80%;
+    transition: width 1000ms ease-in;
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    border: 1px solid #fea890;
+    height: 700px;
+}
+
+.hide-frame {
+    display: none;
+    width: 28%;
+    opacity: 0.01;
 }
